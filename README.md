@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Juan Manuel Isaza/h1>
+<h1 align="center">¡Hola! 👋 Juan Manuel Isaza</h1>
 
 <p align="center">
   <b>Desarrollador Full Stack</b> · Construyo aplicaciones web de principio a fin
