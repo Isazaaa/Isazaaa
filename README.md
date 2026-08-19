@@ -65,16 +65,7 @@
 
 ---
 
-### 📌 Proyectos destacados
 
-> Aquí puedes fijar tus mejores repositorios (Pinned). Algunas ideas para describirlos:
-
-- 🅿️ **parqueadero-backend** — API para la gestión de un parqueadero. *(Node.js / Python)*
-- 👗 **meraqui_fashion** — Proyecto web de una tienda de moda.
-
-*(Reemplaza o amplía con una línea que explique qué hace cada proyecto y qué tecnologías usaste.)*
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Isazaaa&style=flat-square&color=blue" alt="Visitas al perfil"/>
