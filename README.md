@@ -1,7 +1,7 @@
-<!-- ================= ENCABEZADO ANIMADO (onda verde Supabase) ================= -->
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1DB584,100:3ECF8E&height=200&section=header&text=Juan%20Manuel%20Isaza&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full%20Stack&descAlignY=58&descSize=20" alt="header"/>
-</a>
+<!-- ================= BANNER PERSONALIZADO ANIMADO ================= -->
+<p align="center">
+  <img width="100%" src="./assets/banner.svg" alt="Juan Manuel Isaza - Desarrollador Full Stack"/>
+</p>
 <!-- ================= TEXTO QUE SE ESCRIBE SOLO (animado) ================= -->
 <p align="center">
   <a href="https://github.com/Isazaaa">
@@ -66,3 +66,4 @@
  
 <!-- ================= PIE ANIMADO ================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,40:1DB584,100:0D1117&height=120&section=footer" alt="footer"/>
+ 
