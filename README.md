@@ -1,72 +1,40 @@
-<h1 align="center">¡Hola! 👋 Soy Juan Manuel Isaza</h1>
+<!-- ================= ENCABEZADO ANIMADO (onda de color) ================= --> <a href="#"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4169E1,100:00C9A7&height=200&section=header&text=Manuel%20Isaza&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full%20Stack&descAlignY=58&descSize=20" alt="header"/> </a> <!-- ================= TEXTO QUE SE ESCRIBE SOLO (animado) ================= --> <p align="center"> <a href="https://github.com/Isazaaa"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=4169E1&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+%F0%9F%92%BB;Frontend+con+React+%2B+TypeScript+%E2%9A%9B%EF%B8%8F;Backend+con+Node.js+%2B+Python+%F0%9F%90%8D;De+la+idea+al+despliegue+%F0%9F%9A%80" alt="Typing SVG" /> </a> </p> <!-- ================= CONTACTO ================= --> <p align="center"> <a href="mailto:isazamanuel04@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://github.com/Isazaaa"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <img src="https://komarev.com/ghpvc/?username=Isazaaa&style=for-the-badge&color=8A2BE2&label=VISITAS" alt="Visitas al perfil"/> </p>
+<!-- ================= SOBRE MÍ ================= -->
+🧑‍💻 Sobre mí
+javascript
+const manuel = {
+    rol: "Desarrollador Full Stack",
+    ubicacion: "Colombia 🇨🇴",
+    codigo: ["JavaScript", "TypeScript", "Python"],
+    frontend: ["React"],
+    backend: ["Node.js", "Python"],
+    bases_de_datos: ["PostgreSQL", "Supabase"],
+    despliegue: ["Vercel", "Cloudflare"],
+    filosofia: "De la idea al despliegue: base de datos, API, interfaz y producción."
+};
+<!-- ================= TECNOLOGÍAS (iconos limpios) ================= -->
+🛠️ Tecnologías y herramientas
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,postgres,supabase,vercel,cloudflare,vscode,git,github,postman&perline=8" alt="Stack tecnológico"/> </p>
+<!-- ================= ESTADÍSTICAS ================= -->
+📊 Estadísticas de GitHub
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isazaaa&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=4169E1&icon_color=00C9A7"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isazaaa&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=4169E1"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Isazaaa&theme=react&hide_border=true&background=0D1117&ring=4169E1&fire=8A2BE2&currStreakLabel=00C9A7" alt="Racha de contribuciones"/> </p> <!-- ================= TROFEOS ================= --> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Isazaaa&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trofeos"/> </p>
+<!-- ================= GRÁFICO DE ACTIVIDAD (animado) ================= -->
+📈 Actividad reciente
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isazaaa&theme=react-dark&hide_border=true&bg_color=0D1117&color=4169E1&line=8A2BE2&point=00C9A7&area=true" alt="Gráfico de actividad"/> </p> <!-- ================= ANIMACIÓN DE LA SERPIENTE ================= --> <p align="center"> <img src="https://raw.githubusercontent.com/Isazaaa/Isazaaa/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/> </p>
+<!-- ================= PROYECTOS DESTACADOS ================= -->
+📌 Proyectos destacados
 
-<p align="center">
-  <b>Desarrollador Full Stack</b> · Construyo aplicaciones web de principio a fin
-</p>
+Fija (Pin) tus 6 mejores repos. Ideas de descripción:
 
-<p align="center">
-  <a href="mailto:isazamanuel04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-isazamanuel04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+🅿️ parqueadero-backend — API para la gestión de un parqueadero.
+👗 meraqui_fashion — Aplicación web para una tienda de moda.
 
----
+(Cambia estas líneas por lo que realmente hace cada proyecto y las tecnologías usadas.)
 
-### 🚀 Sobre mí
+<!-- ================= PIE ANIMADO ================= --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:4169E1,100:8A2BE2&height=120&section=footer" alt="footer"/>
 
-- 💻 Desarrollador **Full Stack** enfocado en construir aplicaciones web modernas, rápidas y bien estructuradas.
-- 🌱 Trabajo tanto en **frontend** (React, TypeScript) como en **backend** (Node.js, Python).
-- ⚡ Me gusta llevar un proyecto de la idea al despliegue: base de datos, API, interfaz y puesta en producción.
-- 📫 ¿Hablamos? Escríbeme a **isazamanuel04@gmail.com**
+Ve el progreso de las tareas más largas.
 
----
+README.md
 
-### 🛠️ Tecnologías y herramientas
-
-**Lenguajes**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Bases de datos, despliegue e infraestructura**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-**Entorno y herramientas de desarrollo**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 📊 Mis estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isazaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isazaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Isazaaa&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" height="165"/>
-</p>
-
----
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Isazaaa&style=flat-square&color=blue" alt="Visitas al perfil"/>
-</p>
+Rastrea las herramientas y los archivos referenciados utilizados en esta tarea.
