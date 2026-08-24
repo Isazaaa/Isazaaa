@@ -37,9 +37,9 @@
 </td>
 <td valign="top">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Isazaaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=768390" alt="Estadisticas de GitHub de Juan Isaza" />
+<img src="https://github-readme-stats-mauve-iota-95.vercel.app/api?username=Isazaaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=768390" alt="Estadisticas de GitHub de Juan Isaza" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Isazaaa&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=768390" alt="Lenguajes mas usados" />
+<img src="https://github-readme-stats-mauve-iota-95.vercel.app/api/top-langs/?username=Isazaaa&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=768390" alt="Lenguajes mas usados" />
 
 </td>
 </tr>
