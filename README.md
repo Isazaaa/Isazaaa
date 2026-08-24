@@ -37,17 +37,13 @@
 </td>
 <td valign="top">
 
-<img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isazaaa&theme=transparent" alt="Estadisticas de GitHub" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Isazaaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=768390" alt="Estadisticas de GitHub de Juan Isaza" />
 
-<img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isazaaa&theme=transparent" alt="Lenguajes mas usados" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Isazaaa&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=768390" alt="Lenguajes mas usados" />
 
 </td>
 </tr>
 </table>
-
-<p align="center">
-<img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isazaaa&theme=transparent" alt="Resumen del perfil" />
-</p>
 
 ## Stack
 
